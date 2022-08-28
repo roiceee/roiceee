@@ -1,7 +1,8 @@
-#Yo what's up! I'm John Roice Aldeza. 
+### Yo what's up! I'm John Roice Aldeza. 
+
+#### Current stack: HTML, CSS, JavaScript, Bootstrap, ReactJS. 
 
 There's nothing much to see here in my github repository though. I'm still learning a lot of things. I currently know front-end web technologies.
-Current stack: HTML, CSS, JavaScript, Bootstrap, ReactJS. 
 
 I also know core Java and I'm planning to learn Spring after spending some time with React.
 
