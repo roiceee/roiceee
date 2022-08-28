@@ -1,4 +1,4 @@
-### Ayo what's up. I'm John Roice Aldeza. 
+### Ayo what's up. I'm John Roice Aldeza. :boy:
 
 #### Current stack: HTML, CSS, JavaScript, Bootstrap, ReactJS. 
 
