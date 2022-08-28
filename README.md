@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @roiceee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#Yo what's up! I'm John Roice Aldeza. 
+
+There's nothing much to see here in my github repository though. I'm still learning a lot of things. I currently know front-end web technologies.
+Current stack: HTML, CSS, JavaScript, Bootstrap, ReactJS. 
+
+I also know core Java and I'm planning to learn Spring after spending some time with React.
+
+Reach me at jroicealdeza@gmail.com.
 
 <!---
 roiceee/roiceee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
