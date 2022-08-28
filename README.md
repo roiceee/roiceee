@@ -2,7 +2,7 @@
 
 #### Current stack: HTML, CSS, JavaScript, Bootstrap, ReactJS. 
 
-There's nothing much to see here in my github repository though. I'm still learning a lot of things. I currently know front-end web technologies.
+I've been doing some toy web apps for some time. I'm still learning a lot of things. I currently know front-end web technologies.
 
 I also know core Java and I'm planning to learn Spring after spending some time with React.
 
