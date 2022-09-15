@@ -2,7 +2,6 @@
 
 #### Current stack: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJS, NextJS. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 I've been doing some toy web apps for some time. I'm still learning a lot of things. I currently know front-end web technologies.
 
