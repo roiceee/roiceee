@@ -2,7 +2,7 @@
 
 #### Current stack: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJS, NextJS. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roiceee)](https://github.com/roiceee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roiceee&theme=radical)](https://github.com/roiceee/github-readme-stats)
 
 I've been doing some toy web apps for some time. I'm still learning a lot of things. I currently know front-end web technologies.
 
