@@ -1,6 +1,6 @@
 ### Ayo what's up. I'm John Roice Aldeza. :boy:
 
-#### Current stack: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJS, NextJS. 
+#### Current stack: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJS, NextJS, Firebase. 
 
 I've been doing some toy web apps for some time. I'm still learning a lot of things. I currently know front-end web technologies.
 
