@@ -2,10 +2,6 @@
 
 #### Current stack: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJS, NextJS, Firebase, MySQL, Spring Boot.
 
-I've been doing some toy web apps for some time. I'm still learning a lot of things. I currently know front-end web technologies.
-
-I also know core Java and I'm planning to learn Spring after spending some time with React.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roiceee&theme=radical&layout=compact&exclude_repo=Memory-Game,WeatherApp)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roiceee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
