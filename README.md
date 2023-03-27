@@ -1,7 +1,7 @@
 ### Ayo what's up. I'm John Roice Aldeza. :boy:
 
 #### Technologies I've worked on:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,typescript,nextjs,firebase,mysql,postgresql,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,typescript,nextjs,firebase,mysql,postgresql,spring)](https://skillicons.dev)
 HTML, CSS, Bootstrap, JavaScript, TypeScript, React with NextJS, Firebase, MySQL, PostgreSQL, Spring Boot.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roiceee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
