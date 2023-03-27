@@ -2,9 +2,9 @@
 
 #### I know HTML, CSS, Bootstrap, JavaScript, TypeScript, React with NextJS, Firebase, MySQL, Spring Boot.
 
-[![Top Langs](https://github-stats-h0h4mrunf-roiceee.vercel.app/api/top-langs/?username=roiceee&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-g5jjghh1c-roiceee.vercel.app/api/top-langs/?username=roiceee&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-stats-h0h4mrunf-roiceee.vercel.app/api?username=roiceee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-g5jjghh1c-roiceee.vercel.app/api?username=roiceee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Reach me at jroicealdeza@gmail.com.
 
