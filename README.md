@@ -1,6 +1,6 @@
 ### Ayo what's up. I'm John Roice Aldeza. :boy:
 
-#### Technologies I've worked on. 
+#### Technologies I've worked on:
 HTML, CSS, Bootstrap, JavaScript, TypeScript, React with NextJS, Firebase, MySQL, PostgreSQL, Spring Boot.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roiceee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
