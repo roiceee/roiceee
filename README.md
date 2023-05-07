@@ -1,6 +1,6 @@
 ### Ayo what's up. I'm John Roice Aldeza. :boy:
 
-Fullstack student developer.
+Student developer.
 
 #### Technologies I've worked with:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,typescript,react,nextjs,firebase,mysql,postgresql,spring,maven&perline=4)](https://skillicons.dev)
