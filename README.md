@@ -1,6 +1,6 @@
 ### Ayo what's up. I'm John Roice Aldeza. :boy:
 
-I create web apps, among other things.
+I like cool stuff.
 
 #### Technologies I've worked with:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,bootstrap,tailwind,react,nextjs,firebase,mysql,postgresql,spring,maven&perline=5)](https://skillicons.dev)
