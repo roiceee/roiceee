@@ -4,7 +4,7 @@ I build for the love of tech. I sometimes speak at **tech workshops** and a **bi
 
 ## 🚀 Tech Stack  
 I'm proficient in:  
-[![My Skills](https://skillicons.dev/icons?i=aws,typescript,javascript,java,react,nextjs,fastify,express,nodejs,firebase,mysql,postgresql,spring,maven,html,css,bootstrap,tailwind&perline=6)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,java,react,nextjs,aws,,fastify,express,nodejs,firebase,mysql,postgresql,spring,maven,html,css,bootstrap,tailwind&perline=6)](https://skillicons.dev)  
 
 💡 My **main stack**: **TypeScript, JavaScript, AWS, and Java**  
 
