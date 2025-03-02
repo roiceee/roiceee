@@ -1,17 +1,19 @@
-### Ayo what's up. I'm John Roice Aldeza. :boy:
+# 👋 Hey, Roice here.  
 
-I like cool stuff.
+I build for the love of tech. I sometimes speak at **tech workshops** and a **big Fallout fan**.  
 
-#### Technologies I've worked with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,bootstrap,tailwind,react,nextjs,firebase,mysql,postgresql,spring,maven&perline=5)](https://skillicons.dev)
+## 🚀 Tech Stack  
+I'm proficient in:  
+[![My Skills](https://skillicons.dev/icons?i=aws,typescript,javascript,java,react,nextjs,fastify,express,nodejs,firebase,mysql,postgresql,spring,maven,html,css,bootstrap,tailwind&perline=6)](https://skillicons.dev)  
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roiceee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+💡 My **main stack**: **TypeScript, JavaScript, AWS, and Java**  
 
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roiceee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats  
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roiceee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roiceee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-Reach me at jroicealdeza@gmail.com.
+## 🎤 Workshops & Talks  
+I love sharing knowledge through **workshops and tech talks**! If you're looking for a speaker, hit me up.  
 
-<!---
-roiceee/roiceee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📬 Get in Touch  
+📧 **Email**: jroicealdeza@gmail.com  
